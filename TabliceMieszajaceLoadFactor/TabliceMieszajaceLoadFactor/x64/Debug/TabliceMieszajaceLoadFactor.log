@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\48571\source\repos\TabliceMieszajaceLoadFactor\TabliceMieszajaceLoadFactor\main.c(42,15): warning C4047: "funkcja": "ListNode **" różni się w poziomach operatorów pośrednich od "ListNode ***"
+C:\Users\48571\source\repos\TabliceMieszajaceLoadFactor\TabliceMieszajaceLoadFactor\main.c(42,15): warning C4024: "insertNode": różne typy dla formalnego i rzeczywistego parametru 1
+C:\Users\48571\source\repos\TabliceMieszajaceLoadFactor\TabliceMieszajaceLoadFactor\main.c(100,36): warning C4028: formalny parametr 1 różni się od deklaracji
+C:\Users\48571\source\repos\TabliceMieszajaceLoadFactor\TabliceMieszajaceLoadFactor\main.c(70): warning C4715: "searchBool”: niewszystkie ścieżki kodu zwracają wartość
+  TabliceMieszajaceLoadFactor.vcxproj -> C:\Users\48571\source\repos\TabliceMieszajaceLoadFactor\x64\Debug\TabliceMieszajaceLoadFactor.exe
